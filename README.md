@@ -1,2 +1,2 @@
 # PedidoDeNamoro
-algoritmo de pedido de namoro sem recusa
+Algoritmo de pedido de namoro sem recusa
